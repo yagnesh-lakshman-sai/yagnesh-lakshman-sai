@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">  
 <img src="./yagnesh banner.png" alt="Yagnesh Banner" width="1000"/>
 
-# Hey 👋 I'm Yagnesh Lakshman Sai 
+# Hello there,
 <div>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Microservices+%7C+REST+APIs;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=500&lines=I'm+Yagnesh+Lakshman+Sai;Java+Full+Stack+Developer;Spring+Boot+%7C+React;Backend+Systems+Engineer)](https://git.io/typing-svg)
 </div>
 
 <h1>About Me:</h1>
